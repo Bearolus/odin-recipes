@@ -1,1 +1,1 @@
-This is a project through The Odin Project's coursework. More specifically, I will be building a basic recipe website. Primarily, I will be utilizing HTML to build and format this basic website to demonstrate my own abilities in doing so.
+This is a project through The Odin Project's coursework. I am building a basic recipe website. I will be utilizing HTML to build and format this website.
