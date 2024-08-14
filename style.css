@@ -1,0 +1,64 @@
+* {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: rgb(212, 157, 89);
+  color: rgb(87, 65, 39);
+}
+
+a {
+  background-color: inherit;
+  display: block;
+}
+
+a:hover {
+  filter: invert(100%);
+  text-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h1,
+li {
+  text-align: center;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 5vmax;
+  text-decoration: underline dotted;
+}
+
+li,
+li:hover {
+  margin: auto;
+  font-size: 3vmax;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  outline: 12px double ;
+  width: 300px;
+  display: block;
+}
+
+li {
+  background-color: inherit;
+}
+
+li:hover {
+  color: unset;
+  background-position: center;
+  background-size:cover;
+  background-color: unset;
+}
+
+.burger:hover {
+  background-image: url('./img/burger.webp');
+}
+
+.cass:hover {
+  background-image: url('./img/casserole.jpg');
+}
+
+.chicken:hover {
+  background-image: url('./img/chicken.jpg');
+}
