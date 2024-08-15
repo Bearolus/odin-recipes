@@ -1,0 +1,24 @@
+* {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: rgb(212, 157, 89);
+  color: rgb(87, 65, 39);
+}
+
+img {
+  display: inline-block;
+}
+
+a {
+  background-color: inherit;
+}
+
+a:hover {
+  filter: invert(100%);
+  text-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
+}
+
+h1 {
+  font-size: 5vmax;
+  text-decoration: underline dotted;
+  margin: auto;
+}
